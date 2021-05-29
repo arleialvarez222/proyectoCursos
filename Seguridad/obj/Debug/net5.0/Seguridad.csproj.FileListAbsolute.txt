@@ -1,0 +1,38 @@
+D:\REACT\ProyectoCore\Seguridad\bin\Debug\net5.0\Seguridad.deps.json
+D:\REACT\ProyectoCore\Seguridad\bin\Debug\net5.0\Seguridad.dll
+D:\REACT\ProyectoCore\Seguridad\bin\Debug\net5.0\ref\Seguridad.dll
+D:\REACT\ProyectoCore\Seguridad\bin\Debug\net5.0\Seguridad.pdb
+D:\REACT\ProyectoCore\Seguridad\bin\Debug\net5.0\Aplicacion.dll
+D:\REACT\ProyectoCore\Seguridad\bin\Debug\net5.0\Dominio.dll
+D:\REACT\ProyectoCore\Seguridad\bin\Debug\net5.0\Persistencia.dll
+D:\REACT\ProyectoCore\Seguridad\bin\Debug\net5.0\Aplicacion.pdb
+D:\REACT\ProyectoCore\Seguridad\bin\Debug\net5.0\Dominio.pdb
+D:\REACT\ProyectoCore\Seguridad\bin\Debug\net5.0\Persistencia.pdb
+D:\REACT\ProyectoCore\Seguridad\obj\Debug\net5.0\Seguridad.csprojAssemblyReference.cache
+D:\REACT\ProyectoCore\Seguridad\obj\Debug\net5.0\Seguridad.GeneratedMSBuildEditorConfig.editorconfig
+D:\REACT\ProyectoCore\Seguridad\obj\Debug\net5.0\Seguridad.AssemblyInfoInputs.cache
+D:\REACT\ProyectoCore\Seguridad\obj\Debug\net5.0\Seguridad.AssemblyInfo.cs
+D:\REACT\ProyectoCore\Seguridad\obj\Debug\net5.0\Seguridad.csproj.CoreCompileInputs.cache
+D:\REACT\ProyectoCore\Seguridad\obj\Debug\net5.0\Seguridad.csproj.CopyComplete
+D:\REACT\ProyectoCore\Seguridad\obj\Debug\net5.0\Seguridad.dll
+D:\REACT\ProyectoCore\Seguridad\obj\Debug\net5.0\ref\Seguridad.dll
+D:\REACT\ProyectoCore\Seguridad\obj\Debug\net5.0\Seguridad.pdb
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Seguridad\bin\Debug\net5.0\Seguridad.deps.json
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Seguridad\bin\Debug\net5.0\Seguridad.dll
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Seguridad\bin\Debug\net5.0\ref\Seguridad.dll
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Seguridad\bin\Debug\net5.0\Seguridad.pdb
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Seguridad\bin\Debug\net5.0\Aplicacion.dll
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Seguridad\bin\Debug\net5.0\Dominio.dll
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Seguridad\bin\Debug\net5.0\Persistencia.dll
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Seguridad\bin\Debug\net5.0\Aplicacion.pdb
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Seguridad\bin\Debug\net5.0\Dominio.pdb
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Seguridad\bin\Debug\net5.0\Persistencia.pdb
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Seguridad\obj\Debug\net5.0\Seguridad.csprojAssemblyReference.cache
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Seguridad\obj\Debug\net5.0\Seguridad.GeneratedMSBuildEditorConfig.editorconfig
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Seguridad\obj\Debug\net5.0\Seguridad.AssemblyInfoInputs.cache
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Seguridad\obj\Debug\net5.0\Seguridad.AssemblyInfo.cs
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Seguridad\obj\Debug\net5.0\Seguridad.csproj.CoreCompileInputs.cache
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Seguridad\obj\Debug\net5.0\Seguridad.csproj.CopyComplete
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Seguridad\obj\Debug\net5.0\Seguridad.dll
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Seguridad\obj\Debug\net5.0\ref\Seguridad.dll
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Seguridad\obj\Debug\net5.0\Seguridad.pdb

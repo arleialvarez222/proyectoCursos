@@ -1,0 +1,36 @@
+D:\REACT\ProyectoCore\Persistencia\bin\Debug\net5.0\Persistencia.deps.json
+D:\REACT\ProyectoCore\Persistencia\bin\Debug\net5.0\Persistencia.dll
+D:\REACT\ProyectoCore\Persistencia\bin\Debug\net5.0\ref\Persistencia.dll
+D:\REACT\ProyectoCore\Persistencia\bin\Debug\net5.0\Persistencia.pdb
+D:\REACT\ProyectoCore\Persistencia\bin\Debug\net5.0\Dominio.dll
+D:\REACT\ProyectoCore\Persistencia\bin\Debug\net5.0\Dominio.pdb
+D:\REACT\ProyectoCore\Persistencia\obj\Debug\net5.0\Persistencia.csprojAssemblyReference.cache
+D:\REACT\ProyectoCore\Persistencia\obj\Debug\net5.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\REACT\ProyectoCore\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfoInputs.cache
+D:\REACT\ProyectoCore\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfo.cs
+D:\REACT\ProyectoCore\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CoreCompileInputs.cache
+D:\REACT\ProyectoCore\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CopyComplete
+D:\REACT\ProyectoCore\Persistencia\obj\Debug\net5.0\Persistencia.dll
+D:\REACT\ProyectoCore\Persistencia\obj\Debug\net5.0\ref\Persistencia.dll
+D:\REACT\ProyectoCore\Persistencia\obj\Debug\net5.0\Persistencia.pdb
+D:\REACT\ProyectoCore\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.json
+D:\REACT\ProyectoCore\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.dev.json
+D:\REACT\ProyectoCore\Persistencia\obj\Debug\net5.0\Persistencia.genruntimeconfig.cache
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Persistencia\bin\Debug\net5.0\Persistencia.deps.json
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.json
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.dev.json
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Persistencia\bin\Debug\net5.0\Persistencia.dll
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Persistencia\bin\Debug\net5.0\ref\Persistencia.dll
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Persistencia\bin\Debug\net5.0\Persistencia.pdb
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Persistencia\bin\Debug\net5.0\Dominio.dll
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Persistencia\bin\Debug\net5.0\Dominio.pdb
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Persistencia\obj\Debug\net5.0\Persistencia.csprojAssemblyReference.cache
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Persistencia\obj\Debug\net5.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfoInputs.cache
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfo.cs
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CoreCompileInputs.cache
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CopyComplete
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Persistencia\obj\Debug\net5.0\Persistencia.dll
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Persistencia\obj\Debug\net5.0\ref\Persistencia.dll
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Persistencia\obj\Debug\net5.0\Persistencia.pdb
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Persistencia\obj\Debug\net5.0\Persistencia.genruntimeconfig.cache

@@ -1,0 +1,24 @@
+D:\REACT\ProyectoCore\Dominio\bin\Debug\net5.0\Dominio.deps.json
+D:\REACT\ProyectoCore\Dominio\bin\Debug\net5.0\Dominio.dll
+D:\REACT\ProyectoCore\Dominio\bin\Debug\net5.0\ref\Dominio.dll
+D:\REACT\ProyectoCore\Dominio\bin\Debug\net5.0\Dominio.pdb
+D:\REACT\ProyectoCore\Dominio\obj\Debug\net5.0\Dominio.csprojAssemblyReference.cache
+D:\REACT\ProyectoCore\Dominio\obj\Debug\net5.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\REACT\ProyectoCore\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfoInputs.cache
+D:\REACT\ProyectoCore\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfo.cs
+D:\REACT\ProyectoCore\Dominio\obj\Debug\net5.0\Dominio.csproj.CoreCompileInputs.cache
+D:\REACT\ProyectoCore\Dominio\obj\Debug\net5.0\Dominio.dll
+D:\REACT\ProyectoCore\Dominio\obj\Debug\net5.0\ref\Dominio.dll
+D:\REACT\ProyectoCore\Dominio\obj\Debug\net5.0\Dominio.pdb
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Dominio\bin\Debug\net5.0\Dominio.deps.json
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Dominio\bin\Debug\net5.0\Dominio.dll
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Dominio\bin\Debug\net5.0\ref\Dominio.dll
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Dominio\bin\Debug\net5.0\Dominio.pdb
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Dominio\obj\Debug\net5.0\Dominio.csprojAssemblyReference.cache
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Dominio\obj\Debug\net5.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfoInputs.cache
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfo.cs
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Dominio\obj\Debug\net5.0\Dominio.csproj.CoreCompileInputs.cache
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Dominio\obj\Debug\net5.0\Dominio.dll
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Dominio\obj\Debug\net5.0\ref\Dominio.dll
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Dominio\obj\Debug\net5.0\Dominio.pdb

@@ -1,0 +1,34 @@
+D:\REACT\ProyectoCore\Aplicacion\bin\Debug\net5.0\Aplicacion.deps.json
+D:\REACT\ProyectoCore\Aplicacion\bin\Debug\net5.0\Aplicacion.dll
+D:\REACT\ProyectoCore\Aplicacion\bin\Debug\net5.0\ref\Aplicacion.dll
+D:\REACT\ProyectoCore\Aplicacion\bin\Debug\net5.0\Aplicacion.pdb
+D:\REACT\ProyectoCore\Aplicacion\bin\Debug\net5.0\Dominio.dll
+D:\REACT\ProyectoCore\Aplicacion\bin\Debug\net5.0\Persistencia.dll
+D:\REACT\ProyectoCore\Aplicacion\bin\Debug\net5.0\Dominio.pdb
+D:\REACT\ProyectoCore\Aplicacion\bin\Debug\net5.0\Persistencia.pdb
+D:\REACT\ProyectoCore\Aplicacion\obj\Debug\net5.0\Aplicacion.csprojAssemblyReference.cache
+D:\REACT\ProyectoCore\Aplicacion\obj\Debug\net5.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\REACT\ProyectoCore\Aplicacion\obj\Debug\net5.0\Aplicacion.AssemblyInfoInputs.cache
+D:\REACT\ProyectoCore\Aplicacion\obj\Debug\net5.0\Aplicacion.AssemblyInfo.cs
+D:\REACT\ProyectoCore\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.CoreCompileInputs.cache
+D:\REACT\ProyectoCore\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.CopyComplete
+D:\REACT\ProyectoCore\Aplicacion\obj\Debug\net5.0\Aplicacion.dll
+D:\REACT\ProyectoCore\Aplicacion\obj\Debug\net5.0\ref\Aplicacion.dll
+D:\REACT\ProyectoCore\Aplicacion\obj\Debug\net5.0\Aplicacion.pdb
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Aplicacion\bin\Debug\net5.0\Aplicacion.deps.json
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Aplicacion\bin\Debug\net5.0\Aplicacion.dll
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Aplicacion\bin\Debug\net5.0\ref\Aplicacion.dll
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Aplicacion\bin\Debug\net5.0\Aplicacion.pdb
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Aplicacion\bin\Debug\net5.0\Dominio.dll
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Aplicacion\bin\Debug\net5.0\Persistencia.dll
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Aplicacion\bin\Debug\net5.0\Dominio.pdb
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Aplicacion\bin\Debug\net5.0\Persistencia.pdb
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Aplicacion\obj\Debug\net5.0\Aplicacion.csprojAssemblyReference.cache
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Aplicacion\obj\Debug\net5.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Aplicacion\obj\Debug\net5.0\Aplicacion.AssemblyInfoInputs.cache
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Aplicacion\obj\Debug\net5.0\Aplicacion.AssemblyInfo.cs
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.CoreCompileInputs.cache
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.CopyComplete
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Aplicacion\obj\Debug\net5.0\Aplicacion.dll
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Aplicacion\obj\Debug\net5.0\ref\Aplicacion.dll
+D:\REACT\CURSO DE REACT Y SQL\ProyectoCore\Aplicacion\obj\Debug\net5.0\Aplicacion.pdb
